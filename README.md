@@ -3,7 +3,7 @@
 > こんにちは、私の隠れ家へようこそ。
 > ここは、私が創り出したコードやアイデアを記録する場所です。
 
-### 🦊 使っている魔法 (Tech Stacks)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="30" height="30" /> 使っている魔法 (Tech Stacks) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="30" height="30" />
 
 <img src="https://skillicons.dev/icons?i=swift,kotlin,nodejs,nextjs,nestjs,figma" />
 
