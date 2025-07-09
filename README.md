@@ -1,16 +1,14 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto,ea580c&height=250&section=header&text=The%20Fox's%20Den&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20quiet%20place%20where%20I%20weave%20code...&descAlignY=51&descAlign=62" alt="Header Image" />
 
-<!--
-**fenrir-oka/fenrir-oka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> こんにちは、私の隠れ家へようこそ。
+> ここは、私が創り出したコードやアイデアを記録する場所です。
 
-Here are some ideas to get you started:
+### 🦊 使っている魔法 (Tech Stacks)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=swift,kotlin,nodejs,nextjs,nestjs,figma" />
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="50" height="50" />
+</p>
